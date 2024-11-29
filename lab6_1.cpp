@@ -4,7 +4,6 @@ using namespace std;
 int main(){
 
 int N=1;
-int i=0;
 int odd=0;
 int even=0; 
 
